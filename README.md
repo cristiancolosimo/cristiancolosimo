@@ -2,7 +2,13 @@
 
 I am a student of an IT institute, who during the day studies C, Java, HTML, and at night he tries his hand at programming high efficiency programs with alternative methods using frameworks and programming languages such as [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Nodejs](https://nodejs.org/)
 
+My favourite games are: 
+  - Minecraft (modded all life)
+  - Nier automata
+  - Subnautica
 
+Contact: 
+  My Discord Channel: https://discord.gg/4aJjF3fs
 
 <!--
 **cristiancolosimo/cristiancolosimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

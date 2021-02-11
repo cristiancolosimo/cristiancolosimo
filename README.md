@@ -10,8 +10,8 @@ My favourite games are:
   
 
 Contact: 
-  My Discord Channel: https://discord.gg/4aJjF3fs
-  Telegram: https://t.me/cristiancolosimo
+  - My Discord Channel: https://discord.gg/4aJjF3fs
+  - Telegram: https://t.me/cristiancolosimo
 <!--
 **cristiancolosimo/cristiancolosimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

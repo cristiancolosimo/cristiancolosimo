@@ -1,7 +1,8 @@
-### Hi, I'm Cristian
+### Hi, I'm Cris
 
-I am a student of an IT institute, who during the day studies C, Java, HTML, and at night he tries his hand at programming high efficiency programs with alternative methods using frameworks and programming languages such as [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Nodejs](https://nodejs.org/), 
-and i hate inneficent languange and framework like C# and Java, 
+I am a student of an IT institute, who during the day studies C, Java, HTML, and at night he tries his hand at programming high efficiency programs with alternative methods using modern frameworks and programming languages such as [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Nodejs](https://nodejs.org/), [Svelte](https://svelte.dev/)
+
+I hate inefficient language and framework of point of ram and cpu usage like C#, Java and Ruby
 
 My favourite games are: 
   - Minecraft (modded all life)

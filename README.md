@@ -4,6 +4,12 @@ I am a student of an IT institute, who during the day studies C, Java, HTML, and
 
 I dislike inefficient language and framework of point of ram and cpu usage like C#, Java and Ruby in contexts where a more optimized language could be used
 
+I’m currently learning(november 2021):
+  - Networking
+  - Virtualization
+  - Docker container
+
+
 
 Current Setup: 
   - CPU: AMD Ryzen 3700x

@@ -1,38 +1,56 @@
 ### Hi, I'm Cris
 
-I am a student of an IT institute, who during the day studies C, Java, HTML, and at night he tries his hand at programming high efficiency programs with alternative methods using modern frameworks and programming languages such as [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Nodejs](https://nodejs.org/), [Svelte](https://svelte.dev/)
-
-I dislike inefficient language and framework of point of ram and cpu usage like C#, Java and Ruby in contexts where a more optimized language could be used
-
-I’m currently learning(november 2021):
-  - Networking
-  - Virtualization
-  - Docker container
 
 
+I’m currently learning(2022):
+  - Rust
+  - Svelte
+  - GraphQL
+  - Serverless and edge computing
+  
+I'm currently reading: [HIT REFRESH](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508)
+
+Skills:
+  - Typescript
+  - Flutter
+  - React
+  - Docker
+  - Linux
+  - Angular
+  - Git
+  - Rust
+  - Arduino
+  - Svelte
+  - NodeJS
+  - Python3
+  
 
 Current Setup: 
   - CPU: AMD Ryzen 3700x
   - RAM: 32 GB 3200 MHz CL16 16x2
   - GPU: RTX 2070 Super 
-  - ROM: 1TB SSD NVME GEN 3.0
-  - OSs: dualboot Arch Linux BTW, WIN11 
+  - ROM: 1TB SSD NVME GEN 3.0 + 500GB SSD NVME GEN 4.0
+  - OS: Windows 10
+  - VM: TrueNAS Scale
 
 
 My favourite games are: 
   - Hollow knight
-  - Minecraft (modded always with 150+ mods and a good shaders)
+  - Minecraft (modded)
   - Nier automata
   - Subnautica
+  - Osu
   - Ori
-
+  - The Binding of Isaac
+  - Beat Saber
+  - The Climb
 
 
 Contact: 
 <!--
-  - My Discord Channel: https://discord.gg/4aJjF3fs
   - -->
   - Telegram: https://t.me/cristiancolosimo
+  - Email: criscolosimo@proton.me
 <!--
 **cristiancolosimo/cristiancolosimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

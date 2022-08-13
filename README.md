@@ -8,7 +8,7 @@ I’m currently learning(2022):
   - GraphQL
   - Serverless and edge computing
   
-I'm currently reading: [HIT REFRESH](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508)
+I'm currently reading: [Steve Jobs: The Exclusive Biography] 
 
 Skills:
   - Typescript

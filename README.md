@@ -1,15 +1,8 @@
-### Hi, I'm Cris
-
-
-
-I’m currently learning(2022):
-  - Rust
-  - Svelte
-  - GraphQL
-  - Serverless and edge computing
+### Hi, I'm Cristian
   
-I'm currently reading: [Steve Jobs: The Exclusive Biography] 
 
+
+ 
 Skills:
   - Typescript
   - Flutter
@@ -22,16 +15,12 @@ Skills:
   - Arduino
   - Svelte
   - NodeJS
-  - Python3
   
 
-Current Setup: 
-  - CPU: AMD Ryzen 3700x
-  - RAM: 32 GB 3200 MHz CL16 16x2
-  - GPU: RTX 2070 Super 
-  - ROM: 1TB SSD NVME GEN 3.0 + 500GB SSD NVME GEN 4.0
-  - OS: Windows 10
-  - VM: TrueNAS Scale
+Current Work Setup: 
+ - Matebook 14 2021 intel i5 11th, 16 gb ram
+ - Aruba VPS 4 core, 8gb ram, 80 gb ssd
+ - Oracle VPS 4 core arm, 24 gb ram, 200 gb ssd
 
 
 My favourite games are: 

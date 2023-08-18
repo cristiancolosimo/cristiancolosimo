@@ -1,6 +1,6 @@
 ### Hi, I'm Cristian
   
-## My Current Tech Stack
+#### My Current Tech Stack:
 [![TechStack](https://skillicons.dev/icons?i=html,css,js,ts,flutter,react,docker,git,angular,rust,arduino,nodejs,php,dart,tailwind,wordpress,gitlab,vscode,laravel,latex,linux,jenkins,sass)](https://www.linkedin.com/in/santo-cristian-colosimo-8999411aa/)
  
 

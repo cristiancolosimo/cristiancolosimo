@@ -1,28 +1,15 @@
 ### Hi, I'm Cristian
   
-
-
+## My Current Tech Stack
+[![TechStack](https://skillicons.dev/icons?i=html,css,js,ts,flutter,react,docker,git,angular,rust,arduino,nodejs,php,dart,tailwind,wordpress,gitlab,vscode,laravel,latex,linux,jenkins,sass)](https://www.linkedin.com/in/santo-cristian-colosimo-8999411aa/)
  
-Skills:
-  - Typescript
-  - Flutter
-  - React
-  - Docker
-  - Linux
-  - Angular
-  - Git
-  - Rust
-  - Arduino
-  - Svelte
-  - NodeJS
-  
+
 
 Current Work Setup: 
  - Matebook 14 2021 intel i5 11th, 16 gb ram
- - Aruba VPS 4 core, 8gb ram, 80 gb ssd
- - Oracle VPS 4 core arm, 24 gb ram, 200 gb ssd
-
-
+ - Mac Mini M2 8gb ram, 256 ssd
+ - Aruba VPS 4 core, 8gb ram
+<!---
 My favourite games are: 
   - Hollow knight
   - Minecraft (modded)
@@ -32,10 +19,10 @@ My favourite games are:
   - Ori
   - The Binding of Isaac
   - Beat Saber
-  - The Climb
 
 
 Contact: 
+--->
 <!--
   - -->
   - Telegram: https://t.me/cristiancolosimo
